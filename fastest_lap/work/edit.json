@@ -1,0 +1,11 @@
+{
+  "lap": 6,
+  "lap_start_session_s": 804.251,
+  "lap_duration_s": 89.874,
+  "telemetry_time_minus_video_time_s": 52.375,
+  "source_in_s": 748.876,
+  "duration_s": 95.874,
+  "preroll_s": 3.0,
+  "postroll_s": 3.0,
+  "overlay_fps": 29.97002997002997
+}

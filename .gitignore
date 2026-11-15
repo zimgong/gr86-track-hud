@@ -1,0 +1,19 @@
+# Private inputs and generated media
+*_CSV/
+*.csv
+*.xrk
+*.MP4
+*.mp4
+*.LRF
+*.mov
+*.wav
+*.npz
+*.log
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+.DS_Store
+fastest_lap/work/gr86_overlay_*.png
+*_CSV
